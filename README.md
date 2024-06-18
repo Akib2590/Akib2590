@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Akib2590
-- 👀 I’m interested in App Development and ML
+- 👀 I’m interested in Machine Learning and Project Building
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Mini-Projects
+- 💞️ I’m looking on developing Mini-Projects
 - 📫 How to reach me akibhasan2590@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Master Procrastinator
+- ⚡ Fun fact: I wrote first line of code @ age 12
 
 <!---
 Akib2590/Akib2590 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
