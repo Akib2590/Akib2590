@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akib2590
-- 👀 I’m interested in Machine Learning and Project Building
+- 👀 I’m on a mission to become pro in ML and NLP by December 2024
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking on developing Mini-Projects
 - 📫 How to reach me akibhasan2590@gmail.com
